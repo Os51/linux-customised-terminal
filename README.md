@@ -1,6 +1,6 @@
 # linux-customised-terminal
 
-The configurations I use are based off **Alh4zr3d's terminal setup** which he has kindly made public (here)[https://www.patreon.com/posts/how-to-get-my-77367710].
+The configurations I use are based off **Alh4zr3d's terminal setup** which he has kindly made public [here](https://www.patreon.com/posts/how-to-get-my-77367710).
 
 This repo consists of:
 - ASCII Art which is referenced in my neofetch's configuration (feel free to replace with your own).
